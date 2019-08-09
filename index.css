@@ -1,0 +1,25 @@
+.signIn{
+    float: right;
+    background-color: red;
+    color: white;
+    font-size: 18px;
+    border-radius:4px;
+}
+
+.text{
+    text-align: center;
+    padding-top: 200px;
+}
+
+.text2{
+    text-align: center;
+
+}
+
+.freeButton {
+    float: center;
+    background-color: red;
+    color: white;
+    font-size: 15px;
+    border-radius: 4px;
+}
